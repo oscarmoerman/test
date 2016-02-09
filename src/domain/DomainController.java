@@ -10,5 +10,7 @@ package domain;
  * @author dierke9
  */
 public class DomainController {
-    
+    public void lolol (){
+        int loltest = 9000;
+    }
 }
